@@ -6,7 +6,7 @@ for it in S:
         if it == l1[-1]:
             res = 1
             break
-        l1.append(it)
+    l1.append(it)
 if res == 0:
     print("该字符串不包含两个或两个以上的连续相同字符")
 else:

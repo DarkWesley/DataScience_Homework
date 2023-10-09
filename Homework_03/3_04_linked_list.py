@@ -80,4 +80,4 @@ if __name__ == "__main__":
     linked_list.display()  # 输出：0 -> 1 -> 2 -> None
 
     print(linked_list.find(1))  # 输出：True
-    print(linked_list.find(2))  # 输出：False
+    print(linked_list.find(4))  # 输出：False
